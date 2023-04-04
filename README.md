@@ -1,6 +1,6 @@
 ## Associated publications
 Theoretical water binding energy distribution and snowline in protoplanetary disks
-Lorenzo Tinacci, Auréle Germain, Stefano Pantaleone, Stefano Ferrero, Cecilia Ceccarelli, and Piero Ugliengo 
+Lorenzo Tinacci, Auréle Germain, Stefano Pantaleone, Cecilia Ceccarelli, Nadia Balucani and Piero Ugliengo 
 Accepted for publication in ApJ 2023
 
 DOI:[000](XXX)
