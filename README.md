@@ -1,21 +1,21 @@
 ## Associated publications
 Theoretical water binding energy distribution and snowline in protoplanetary disks
 Lorenzo Tinacci, Auréle Germain, Stefano Pantaleone, Cecilia Ceccarelli, Nadia Balucani and Piero Ugliengo 
-Accepted for publication in ApJ 2023
+2023 ApJ 951 32
 
-DOI:[000](XXX)
+DOI:[10.3847/1538-4357/accae8](https://iopscience.iop.org/article/10.3847/1538-4357/accae8)
 
 ```bibtex
 @article{Tinacci_BE_water,
-author = {Tinacci, Lorenzo and Germain, Auréle and Pantaleone, Stefano and and Ceccarelli, Cecilia and Balucani, Nadia and Ugliengo, Piero},
-title = {Theoretical water binding energy distribution and snowline in protoplanetary disks},
-journal = {ApJ},
-volume = {0},
-number = {0},
-pages = {0--0},
-year = {2023},
-doi = {000},
-publisher={IOP Publishing},
+  title={Theoretical Water Binding Energy Distribution and Snowline in Protoplanetary Disks},
+  author={Tinacci, Lorenzo and Germain, Aur{\`e}le and Pantaleone, Stefano and Ceccarelli, Cecilia and Balucani, Nadia and Ugliengo, Piero},
+  journal={The Astrophysical Journal},
+  volume={951},
+  number={1},
+  pages={32},
+  year={2023},
+  doi={10.3847/1538-4357/accae8},
+  publisher={IOP Publishing}
 }
 ```
 
